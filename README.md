@@ -4,7 +4,7 @@
 **Project Overview**
 -------------------
 
-This is a personal portfolio landing page project that showcases my skills, hobbies, and contact information. The project consists of two main files: `index.html` and `contact.html`.
+This is a personal portfolio landing page project that showcases the home page, hobbies, and contact information. The project consists of two main files: `index.html` and `contact.html`.
 
 **Project Structure**
 --------------------
@@ -18,19 +18,18 @@ This is a personal portfolio landing page project that showcases my skills, hobb
 **Features**
 ------------
 
-* **Responsive Layout**: The landing page uses a well-structured, responsive layout using CSS Grid.
-* **Navigation Bar**: The navbar includes links to the "About Me" section and the "Contact Me" page.
-* **Header Section**: A centered video or image of myself.
+* **Responsive Layout**: The landing page uses a well-structured, responsive layout using CSS flex.
+* **Navigation Bar**: The navbar includes links to the "Home",  "About Me" section and a button to navigate to the "Contact" page.
 * **Tagline Section**: A centered text area with a tagline for my portfolio.
-* **Skills and Hobbies Section**: Two equal-sized columns displaying my skills and hobbies.
+* **Hobbies Section**: Two equal-sized columns displaying my skills and hobbies.
 * **Footer Section**: Links to my social media profiles or contact information.
 * **Contact Form**: A form on the `contact.html` page with fields for name, email, phone number, and message.
 
 **Technical Details**
 --------------------
 
-* The project uses HTML, CSS, and CSS Grid for layout and styling.
-* The "About Me" link in the navbar uses the `id` attribute to scroll directly to the "Skills and Hobbies" section.
+* The project uses HTML, CSS, and CSS Flex for layout and styling.
+* The "About Me" link in the navbar uses the `id` attribute to scroll directly to the "Hobbies" section.
 * The contact form on the `contact.html` page uses standard HTML form elements.
 
 **Screenshots**
