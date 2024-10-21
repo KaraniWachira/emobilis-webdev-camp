@@ -11,6 +11,9 @@ This is a personal portfolio landing page project that showcases my skills, hobb
 
 * `index.html`: The main entry point of the portfolio, featuring a responsive layout with a navigation bar, header, tagline, skills and hobbies section, and a footer.
 * `contact.html`: A separate page for contact information, featuring a navigation bar and a contact form.
+*  `general.css`: styles page for the global css utilized by shared components.
+*  `styles.css`: css styles refencing individual classes and ids.
+*  `assests folder`: contains all the images and icons used.
 
 **Features**
 ------------
