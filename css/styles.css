@@ -1,6 +1,6 @@
 @import 'general.css';
 :root{
-    --primary:#3DCFD3;
+    --primary:greenyellow;
     --dark:#161616;
     --pure:#FFFFFF;
     --ternary:#898989;
@@ -221,7 +221,7 @@ section.Hobbies .card-wrapper .card p{
 }
 
 section.Hobbies .card-wrapper .card:hover{
-    background: var(--dark);
+    background: var(--primary);
 }
 section.Hobbies .card-wrapper .card:hover h2, section.Hobbies .card-wrapper .card:hover p{
     color:var(--pure);
